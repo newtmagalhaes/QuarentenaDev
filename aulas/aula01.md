@@ -1,6 +1,6 @@
-# Aula 1: Seu primeiro código JavaScript
+# Aula 01: Seu primeiro código JavaScript
 
-> [:link: Site](https://www.alura.com.br/quarentenadev/aula01-javascript)
+> [:link: Site](https://www.alura.com.br/quarentenadev/aula01-javascript "Site da aula 01")
 
 Seja bem vindo à primeira aula da **#QuarentenaDev**!
 
@@ -11,7 +11,7 @@ Lembre-se de compartilhar seus experimentos e ir praticando para o conhecimento!
 
 ## Aula
 
-> [:link: Videoaula](https://www.youtube.com/watch?v=wtbgwcMrkQg)
+> [:link: Videoaula](https://www.youtube.com/watch?v=wtbgwcMrkQg "Vídeo não listado no YouTube")
 
 Na aula de hoje conhecemos o `alert()` ele mostra uma caixa de diálogo de aviso com o que escrevemos e um botão OK.
 Então para mostrar um cálculo de **multiplicação** nessa caixa podemos escrever o seguinte código no nosso navegador:
@@ -49,7 +49,7 @@ Agora que já sabemos fazer operações vamos ao desafio.
 
 ## Desafio
 
-> [:dart: Resolução](../scripts/aula01/desafio.js)
+> [:dart: Resolução](../scripts/aula01/desafio_batimento.js "Código em JavaScript")
 
 Para essa aula, deixamos como desafio você tentar fazer o **cálculo de batimentos cárdiacos** e mandar isso no canal!
 Isto é: dada a sua _idade_, quantas vezes seu coração já bateu?
@@ -70,12 +70,12 @@ Em breve aprenderemos como usar ferramentas, como o codepen, para poder trocar c
 
 ## Participantes
 
-- [Paulo Silveira](https://twitter.com/paulo_caelum)
+- [Paulo Silveira](https://twitter.com/paulo_caelum "Perfil no Twitter")
 
-- [Mario Souto](https://twitter.com/omariosouto)
+- [Mario Souto](https://twitter.com/omariosouto "Perfil no Twitter")
 
-- [Vanessa Tonini](https://twitter.com/vanessametonini)
+- [Vanessa Tonini](https://twitter.com/vanessametonini "Perfil no Twitter")
 
-- [Artur Diniz](https://twitter.com/artdiniz)
+- [Artur Diniz](https://twitter.com/artdiniz "Perfil no Twitter")
 
-- [Amanda Almeida](https://www.instagram.com/theamandaalmeida)
+- [Amanda Almeida](https://www.instagram.com/theamandaalmeida "Perfil no Twitter")
