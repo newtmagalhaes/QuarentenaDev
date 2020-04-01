@@ -10,6 +10,8 @@ Repositório desenvolvido durante a **#QuarentenaDev**.
 
 - [:bookmark: 02-variaveis](aulas/aula02/variaveis.md "Texto da aula 02")
 
+- [:bookmark: 03-codepen](aulas/aula03/codepen.md "Texto da aula 03")
+
 ## :pencil: Versionamento
 
 Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens/master/images/logos/git.svg?sanitize=true" width="15">](https://git-scm.com/ "Site oficial do Git") para versionamento.
