@@ -1,12 +1,12 @@
 # Aula 02: Capturando informações e variáveis
 
-> [:link: Site](https://www.alura.com.br/quarentenadev/aula02-variaveis)
+> [:link: Site](https://www.alura.com.br/quarentenadev/aula02-variaveis "Site da aula 03")
 
 Você pediu e segue uma aula mais longa e com mais desafios da **#QuarentenaDev**!
 
 ## Aula
 
-> [:link: Videoaula](https://www.youtube.com/watch?v=n50RdpLtsEo)
+> [:link: Videoaula](https://www.youtube.com/watch?v=n50RdpLtsEo "Vídeo não listado no YouTube")
 
 ## Três desafios para você!
 
@@ -25,13 +25,25 @@ Você pediu e segue uma aula mais longa e com mais desafios da **#QuarentenaDev*
    O IMC é calculado **dividindo o peso pela altura elevada ao quadrado**.
    Será que você consegue descobrir qual o seu IMC?
 
-   > [:dart: Resolução](../scripts/aula02/desafio_imc.js "Código em JavaScript")
+   > [:dart: Resolução](desafio_imc.js "Código em JavaScript")
 
 2. Guilherme tem 30 anos e tem 3 irmãs, a Carol que tem 20 anos, Márcia que tem 15, Patrícia que tem 10 anos.
    Qual a média de idade da família do Guilherme?
 
-   > [:dart: Resolução](../scripts/aula02/desafio_media.js "Código em JavaScript")
+   > [:dart: Resolução](desafio_media.js "Código em JavaScript")
 
 3. Quantos anos tem a avó da amiga da Maria que nasceu em 1940?
 
-   > [:dart: Resolução](../scripts/aula02/desafio_idade.js "Código em JavaScript")
+   > [:dart: Resolução](desafio_idade.js "Código em JavaScript")
+
+## Participantes
+
+- [Paulo Silveira](https://twitter.com/paulo_caelum "Perfil no Twitter")
+
+- [Mario Souto](https://twitter.com/omariosouto "Perfil no Twitter")
+
+- [Vanessa Tonini](https://twitter.com/vanessametonini "Perfil no Twitter")
+
+- [Artur Diniz](https://twitter.com/artdiniz "Perfil no Twitter")
+
+- [Amanda Almeida](https://www.instagram.com/theamandaalmeida "Perfil no Twitter")

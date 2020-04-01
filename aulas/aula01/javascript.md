@@ -49,7 +49,7 @@ Agora que já sabemos fazer operações vamos ao desafio.
 
 ## Desafio
 
-> [:dart: Resolução](../scripts/aula01/desafio_batimento.js "Código em JavaScript")
+> [:dart: Resolução](desafio_batimento.js "Código em JavaScript")
 
 Para essa aula, deixamos como desafio você tentar fazer o **cálculo de batimentos cárdiacos** e mandar isso no canal!
 Isto é: dada a sua _idade_, quantas vezes seu coração já bateu?
