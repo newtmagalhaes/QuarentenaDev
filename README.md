@@ -14,6 +14,8 @@ Repositório desenvolvido durante a **#QuarentenaDev**.
 
 - [:bookmark: 04-aplicativo-de-transporte](aulas/aula04/aplicativo-de-transporte.md "Texto da aula 04")
 
+- [:bookmark: 05-html-css](aulas/aula05/html-css.md "Texto da aula 05")
+
 ## :pencil: Versionamento
 
 Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens/master/images/logos/git.svg?sanitize=true" width="15">](https://git-scm.com/ "Site oficial do Git") para versionamento.

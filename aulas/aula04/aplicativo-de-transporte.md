@@ -19,7 +19,7 @@ Use o codepen, marque a [@aluraonline](https://github.com/alura-cursos "GitHub d
   Então como deixar as opções de distância e tempo para quem for usar o nosso programa preencher e descobrir o valor da sua corrida?
   E como mostrar isso na tela sem usar o alert?
 
-  > [:dart: Resolução](exercicio_custo.js "Código em HTML")
+  > [:dart: Resolução](exercicio_custo.js "Código em JavaScript")
 
   > [:dart: Resolução](https://codepen.io/newtmagalhaes/pen/RwPOMwm "Código no codepen")
 
