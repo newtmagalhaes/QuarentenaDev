@@ -2,19 +2,21 @@
 
 Repositório desenvolvido durante a **#QuarentenaDev**.
 
-![#QuarentenaDev](assets/header.svg "#QuarentenaDev")
+![#QuarentenaDev](./assets/header.svg "#QuarentenaDev")
 
 ## :bookmark_tabs: Aulas
 
-- [:bookmark: 01-javascript](aulas/aula01/javascript.md "Texto da aula 01")
+- [:bookmark: 01-javascript](./aulas/aula01/javascript.md "Texto da aula 01")
 
-- [:bookmark: 02-variaveis](aulas/aula02/variaveis.md "Texto da aula 02")
+- [:bookmark: 02-variaveis](./aulas/aula02/variaveis.md "Texto da aula 02")
 
-- [:bookmark: 03-codepen](aulas/aula03/codepen.md "Texto da aula 03")
+- [:bookmark: 03-codepen](./aulas/aula03/codepen.md "Texto da aula 03")
 
-- [:bookmark: 04-aplicativo-de-transporte](aulas/aula04/aplicativo-de-transporte.md "Texto da aula 04")
+- [:bookmark: 04-aplicativo-de-transporte](./aulas/aula04/aplicativo-de-transporte.md "Texto da aula 04")
 
-- [:bookmark: 05-html-css](aulas/aula05/html-css.md "Texto da aula 05")
+- [:bookmark: 05-html-css](./aulas/aula05/html-css.md "Texto da aula 05")
+
+- [:bookmark: 06-verdadeiro-ou-falso](./aulas/aula06/verdadeiro-ou-falso.md "Texto da aula 06")
 
 ## :pencil: Versionamento
 
@@ -28,4 +30,4 @@ Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens
 
 ## :scroll: Licença
 
-Este projeto está licenciado sob _MIT License_ - veja o arquivo [LICENSE](LICENSE "Licença do repositório") para detalhes.
+Este projeto está licenciado sob _MIT License_ - veja o arquivo [LICENSE](./LICENSE "Licença do repositório") para detalhes.
