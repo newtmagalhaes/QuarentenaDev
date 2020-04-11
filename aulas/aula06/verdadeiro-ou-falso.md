@@ -14,10 +14,14 @@ Então chegou a hora de aprender como fazer!!
 
 Utilizando a instrução `if` você consegue dizer para o usuário qual é o mês baseado no número de 1 a 12 que ele escolher.
 
+> [:dart: Resolução](./desafio_meses.js "Código em JavaScript")
+
 Na [aula2](../aula02/variaveis.md "Aula 02 - variaveis") tem uma tabela dizendo qual o significado do resultado do IMC.
 Depois de calcular, você consegue exibir o significado do IMC da pessoa?
 
 ex: IMC for 17 exibir abaixo do peso
+
+> [:dart: Resolução](./desasfio_resultado.js "Código em JavaScript")
 
 ## Participantes
 
