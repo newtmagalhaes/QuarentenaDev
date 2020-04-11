@@ -14,7 +14,7 @@ E para você que não queria saber, afinal a aula é para todos e todas!
 
 O Paulo desafiou vocês a trocar o estilo da mensagem de "você ganhou" ou "você perdeu"
 
-> [:dart: Resolução]( "Código no Codepen")
+> [:dart: Resolução](https://codepen.io/newtmagalhaes/pen/WNQbqGz "Código no Codepen")
 
 ### Dica para o exercício do Paulo
 
@@ -37,7 +37,7 @@ paragrafoResultado.style.backgroundColor = "yellow"
 
 O Art desafiou você a não deixar o usuário digitar um número maior que 10, caso ele digite um maior, dizer que ele não pode e pedir para digitar um novo número.
 
-> [:dart: Resolução]( "Código no Codepen")
+> [:dart: Resolução](https://codepen.io/newtmagalhaes/pen/ZEbYdpw "Código no Codepen")
 
 ### Dica para o exercício do Art
 
@@ -64,7 +64,7 @@ let chute = prompt('Seu numero da sorte(1-10)')
 
 if(chute < 0 || chute > 10){ pedir um numero novo}
 
-numerocerto = chute == aleatorio
+numerocerto = (chute == aleatorio)
 ```
 
 ## Participantes
