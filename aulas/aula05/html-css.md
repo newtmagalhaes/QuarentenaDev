@@ -29,25 +29,46 @@ Ao invés de deixar apenas o fundo branco com a letras pretas, usar o `document.
 
 ## Desafio do Mário
 
-Dado o seguinte HTML:
+Será que você consegue mudar a cor da pokebola de vermelho para roxo???
 
-```HTML
-<div class="pokeball">
-</div>
+> [:dart: Resolução](./pokebox.html "Código no HTML")
+
+Cada tag é uma caixa.
+`<div> </div>` é a nossa caixa e podemos aplicar efeitos nela.
+Um deles é o efeito de sombra com a propriedade [:link: _box-shadow_](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow "Documentação sobre box-shadow") do CSS.
+
+```CSS
+div {
+box-shadow: tamanho tamanho tamanho tamanho cor;
+}
+div {  
+box-shadow: 0px 0px 0px 0px green;
+}
 ```
 
-Replicar a pokebola usando a propriedade [:link: _box-shadow_](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow "Documentação sobre box-shadow") do CSS.
+Essa propriedade permite que várias sombras possam ser declaradas para a mesma tag.
+Não é por ser sombra que ela tem que ser esfumaçada e transparente, podemos fazer sombras nítidas e sólidas!
 
-> [:dart: Resolução]("Código no codepen")
+> [:dart: Resolução](https://codepen.io/newtmagalhaes/pen/QWjwweG "Código no codepen")
 
 ![Pokeball](../../assets/pokeball.png)
+
+## Desafio master
+
+Se você conseguiu trocar a cor da pokebola, será que você consegue criar a sua?
+
+> [:dart: Resolução](./pokecircle.html "Código no HTML")
+
+> [:dart: Resolução](https://codepen.io/newtmagalhaes/pen/GRpgBqm "Código no codepen")
 
 ## Mais um exercício
 
 Aprendemos algumas _tags_ HTML e como estilizar essas _tags_ usando CSS.
 Será que você é capaz de reproduzir o seguinte _layout_?
 
-> [:dart: Resolução]("Código no codepen")
+> [:dart: Resolução](./layout.html "Código no HTML")
+
+> [:dart: Resolução](https://codepen.io/newtmagalhaes/pen/mdeyjBM "Código no codepen")
 
 ![Exercício](../../assets/exercicio.png "Imagem do exercício")
 
