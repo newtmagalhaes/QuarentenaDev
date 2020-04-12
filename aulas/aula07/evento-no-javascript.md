@@ -1,4 +1,4 @@
-# Aula 7: Sorteio com Botões e Funções
+# Aula 07: Sorteio com Botões e Funções
 
 > [:link: Site](https://www.alura.com.br/quarentenadev/aula07-evento-no-javascript "Site da aula 07")
 

@@ -20,6 +20,8 @@ Repositório desenvolvido durante a **#QuarentenaDev**.
 
 - [:bookmark: 07-evento-no-javascript](./aulas/aula07/evento-no-javascript.md "Texto da aula 07")
 
+- [:bookmark: 08-laco-no-javascript](./aulas/aula08/laco-no-javascript.md "Texto da aula 08")
+
 ## :pencil: Versionamento
 
 Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens/master/images/logos/git.svg?sanitize=true" width="15">](https://git-scm.com/ "Site oficial do Git") para versionamento.
