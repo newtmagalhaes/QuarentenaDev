@@ -24,16 +24,20 @@ Repositório desenvolvido durante a **#QuarentenaDev**.
 
 - [:bookmark: 09-inputs-e-retorno-de-funcao](./aulas/aula09/inputs-e-retorno-de-funcao.md "Texto da aula 09")
 
+- [:bookmark: 10-completando-o-certificado-e-curriculo](./aulas/aula10/completando-o-certificado-e-curriculo.md "Texto da aula 10")
+
 ## :pencil: Versionamento
 
 Eu uso [Git <img src="https://raw.github.com/newtmagalhaes/Aprendendo-Linguagens/master/images/logos/git.svg?sanitize=true" width="15">](https://git-scm.com/ "Site oficial do Git") para versionamento.
 
 ## :octocat: Autor
 
-|                                   [@newtmagalhaes](https://github.com/newtmagalhaes "Perfil do autor")                                    |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://avatars1.githubusercontent.com/u/55257893?s=460&v=4" width="100">](https://github.com/newtmagalhaes "Perfil do autor") |
+|                                   [@newtmagalhaes][autor]                                    |
+| :------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars1.githubusercontent.com/u/55257893?s=460&v=4" width="100">][autor] |
 
 ## :scroll: Licença
 
 Este projeto está licenciado sob _MIT License_ - veja o arquivo [LICENSE](./LICENSE "Licença do repositório") para detalhes.
+
+[autor]: https://github.com/newtmagalhaes "Perfil do autor"
