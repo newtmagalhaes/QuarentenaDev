@@ -4,6 +4,14 @@ Repositório desenvolvido durante a **#QuarentenaDev**.
 
 ![#QuarentenaDev](./assets/header.svg "#QuarentenaDev")
 
+## :trophy: Certificado
+
+> [:link: Certificado](https://newtmagalhaes.github.io/QuarentenaDev "Certificado no GitHub Pages")
+
+A ultima aula da **#QuarentenaDev** foi a elaboração do próprio certificado pelo aluno.
+
+Você pode verificar o código no [:link: codepen](https://codepen.io/newtmagalhaes/pen/XWmbXpK "Código do Certificado no codepen") ou na minha [:link: Pasta](./docs/index.html "Código do Certificado em HTML")
+
 ## :bookmark_tabs: Aulas
 
 - [:bookmark: 01-javascript](./aulas/aula01/javascript.md "Texto da aula 01")
